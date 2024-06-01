@@ -2,4 +2,4 @@
 
 some information!
 ## subheader
-stuff
+ things 
